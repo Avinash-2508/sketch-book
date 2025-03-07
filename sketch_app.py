@@ -2,7 +2,7 @@ from turtle import Turtle , Screen
 timmy = Turtle()
 timmy.shape("turtle")
 timmy.color("red")
-timmy.pensize(2)
+timmy.pensize(3)
 
 
 def move_farward():
