@@ -10,9 +10,9 @@ def move_farward():
 def move_backward():
     timmy.backward(50)
 def move_right():
-    timmy.right(36)
+    timmy.right(37)
 def move_left():
-    timmy.left(36)
+    timmy.left(37)
 def clear():
     timmy.clear()
     timmy.penup()
