@@ -8,7 +8,7 @@ timmy.pensize(3)
 def move_farward():
     timmy.forward(50)
 def move_backward():
-    timmy.backward(50)
+    timmy.backward(51)
 def move_right():
     timmy.right(36)
 def move_left():
